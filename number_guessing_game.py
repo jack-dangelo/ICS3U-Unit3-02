@@ -8,7 +8,7 @@
 def main():
     # This function does plays a game
     # Input
-    number_guessed = int(input("Enter a number to play: "))
+    number_guessed = int(input("Enter a number 0-9 to play: "))
     print(" ")
     # Process
     if number_guessed == 5:
